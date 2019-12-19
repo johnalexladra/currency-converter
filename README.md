@@ -14,13 +14,13 @@ https://exchangeratesapi.io/
 * https://fcsapi.com
 * https://currencylayer.com/product
   
-* Currency conversion can be done with Money.JS
+Currency conversion can be done with Money.JS  
 https://openexchangerates.github.io/money.js/
   
-* Converting number as currency
+Converting number as currency  
 https://flaviocopes.com/how-to-format-number-as-currency-javascript/
   
-can also be solve using Accounting.JS
+can also be solve using Accounting.JS  
 http://openexchangerates.github.io/accounting.js/
 
 
